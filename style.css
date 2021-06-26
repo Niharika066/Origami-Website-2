@@ -1,0 +1,37 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(255, 255, 255);
+    font-size:20px;
+    font-family: Verdana;
+    font-weight:400;
+    color:white;
+}
+
+body{
+    background-color:rgb(157, 243, 243)
+}
+
+.grid{
+   display: flex;
+   flex-wrap: wrap; 
+}
+ .bodyimg{
+   
+    border-radius:20px;
+    background-color:#010808;
+    font-size:25px;
+    width: 100%;
+ }
+.grid img{
+    border:2px solid black;
+    border-radius: 50px;
+}
+
+.origami{
+    border-radius:25px;
+    background-color:rgb(69, 231, 231);
+    width: 310px;
+    font-family:unset;
+
+}
